@@ -8,3 +8,4 @@
 
 REPORT ZMP_WRITEHELLO.
 Write 'HELLO MOLSCHOWSKI'.
+Write 'Hi Max'.
